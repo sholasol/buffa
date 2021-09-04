@@ -1,0 +1,32 @@
+[20-Aug-2021 09:04:22 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'hybridso_buffalo.rawMaterial' doesn't exist' in /home2/hybridso/public_html/buffalocrete-erp.com/crete/rawMaterial.php:137
+Stack trace:
+#0 /home2/hybridso/public_html/buffalocrete-erp.com/crete/rawMaterial.php(137): PDOStatement->execute()
+#1 {main}
+  thrown in /home2/hybridso/public_html/buffalocrete-erp.com/crete/rawMaterial.php on line 137
+[24-Aug-2021 10:27:22 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'phone' at row 1' in /home2/hybridso/public_html/buffalocrete-erp.com/crete/staff.php:145
+Stack trace:
+#0 /home2/hybridso/public_html/buffalocrete-erp.com/crete/staff.php(145): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home2/hybridso/public_html/buffalocrete-erp.com/crete/staff.php on line 145
+[24-Aug-2021 10:32:22 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'phone' at row 1' in /home2/hybridso/public_html/buffalocrete-erp.com/crete/staff.php:145
+Stack trace:
+#0 /home2/hybridso/public_html/buffalocrete-erp.com/crete/staff.php(145): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home2/hybridso/public_html/buffalocrete-erp.com/crete/staff.php on line 145
+[24-Aug-2021 13:21:02 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'phone' at row 1' in /home2/hybridso/public_html/buffalocrete-erp.com/crete/staff.php:145
+Stack trace:
+#0 /home2/hybridso/public_html/buffalocrete-erp.com/crete/staff.php(145): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home2/hybridso/public_html/buffalocrete-erp.com/crete/staff.php on line 145
+[24-Aug-2021 13:53:41 UTC] PHP Warning:  include(connect/connect.php): failed to open stream: No such file or directory in /home2/hybridso/public_html/buffalocrete-erp.com/crete/sales.php on line 58
+[24-Aug-2021 13:53:41 UTC] PHP Warning:  include(connect/connect.php): failed to open stream: No such file or directory in /home2/hybridso/public_html/buffalocrete-erp.com/crete/sales.php on line 58
+[24-Aug-2021 13:53:41 UTC] PHP Warning:  include(): Failed opening 'connect/connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/hybridso/public_html/buffalocrete-erp.com/crete/sales.php on line 58
+[24-Aug-2021 13:53:41 UTC] PHP Warning:  include(connect/connect.php): failed to open stream: No such file or directory in /home2/hybridso/public_html/buffalocrete-erp.com/crete/sales.php on line 58
+[24-Aug-2021 13:53:41 UTC] PHP Warning:  include(connect/connect.php): failed to open stream: No such file or directory in /home2/hybridso/public_html/buffalocrete-erp.com/crete/sales.php on line 58
+[24-Aug-2021 13:53:41 UTC] PHP Warning:  include(): Failed opening 'connect/connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/hybridso/public_html/buffalocrete-erp.com/crete/sales.php on line 58
+[25-Aug-2021 07:23:17 UTC] PHP Warning:  include(connect/connect.php): failed to open stream: No such file or directory in /home2/hybridso/public_html/buffalocrete-erp.com/crete/sales.php on line 58
+[25-Aug-2021 07:23:17 UTC] PHP Warning:  include(connect/connect.php): failed to open stream: No such file or directory in /home2/hybridso/public_html/buffalocrete-erp.com/crete/sales.php on line 58
+[25-Aug-2021 07:23:17 UTC] PHP Warning:  include(): Failed opening 'connect/connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/hybridso/public_html/buffalocrete-erp.com/crete/sales.php on line 58
+[25-Aug-2021 07:23:17 UTC] PHP Warning:  include(connect/connect.php): failed to open stream: No such file or directory in /home2/hybridso/public_html/buffalocrete-erp.com/crete/sales.php on line 58
+[25-Aug-2021 07:23:17 UTC] PHP Warning:  include(connect/connect.php): failed to open stream: No such file or directory in /home2/hybridso/public_html/buffalocrete-erp.com/crete/sales.php on line 58
+[25-Aug-2021 07:23:17 UTC] PHP Warning:  include(): Failed opening 'connect/connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/hybridso/public_html/buffalocrete-erp.com/crete/sales.php on line 58
